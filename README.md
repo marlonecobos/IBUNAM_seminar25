@@ -9,5 +9,5 @@ Contact: manubio13@gmail.com
 
 All scripts to run examples are in the directory "scripts".
 
-The easiest way to use this repository is to clone it to fork it to your GitHub
+The easiest way to use this repository is to fork it to your GitHub
 and clone it to your local computer. You can also download only the script.  
